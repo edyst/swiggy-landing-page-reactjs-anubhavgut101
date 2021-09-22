@@ -1,5 +1,5 @@
 import React  from 'react';
-import './NavLinks.css';
+//import './NavLinks.css';
 
 function NavLinks(props) {
     const { heading, links , showHeading } = props;
